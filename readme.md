@@ -28,9 +28,8 @@ Você pode usar qualquer tecnologia front-end para completar este desafio, mas r
 
 1. Faça um fork deste repositório para sua conta no GitHub.
 2. Crie uma nova branch com o nome `desafio-seu-nome`.
-3. Implemente a página de produto conforme descrito nos requisitos.
-4. Ao finalizar, envie um pull request para o repositório original.
-5. Certifique-se de que seu código está bem documentado e de incluir instruções sobre como rodar o projeto localmente.
+3. Implemente o desafio conforme descrito nos requisitos.
+4. Ao finalizar, compartilhe seu projeto conosco!
 
 ## Recursos Adicionais
 
